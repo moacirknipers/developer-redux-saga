@@ -1,0 +1,15 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 50px;
+}
+
+.card-area {
+  display: flex;
+  flex-direction: row;
+  align-items: baseline;
+}
+
+.card-content {
+  margin: 20px;
+}
